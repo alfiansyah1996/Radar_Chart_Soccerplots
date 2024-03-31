@@ -1,3 +1,4 @@
 streamlit
 pandas
 soccerplots
+streamlit_option_menu
