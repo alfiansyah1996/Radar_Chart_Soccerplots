@@ -1,4 +1,0 @@
-streamlit
-pandas
-soccerplots
-streamlit-option-menu
